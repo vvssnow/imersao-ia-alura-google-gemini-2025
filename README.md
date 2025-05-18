@@ -39,7 +39,5 @@ Procedimento para busca:
 
 ![image](https://github.com/user-attachments/assets/3bc3b5c2-0678-418f-9c42-1bc0a43d3157)
 
-➕ Adicionado o procedimento para busca por vendor (fabricante);
-➕ Adicionado o procedimento para busca por cve (vulnerabilidade);
 
                                                           
