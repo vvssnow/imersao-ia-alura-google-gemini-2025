@@ -1,5 +1,6 @@
  Projeto - Imersão IA Alura + Google Gemini
 ---
+![095b8df7-510a-4c0c-b5a4-197af74c9cffvander-neves](https://github.com/user-attachments/assets/b3ab7b83-69fa-41a2-bdbd-d9e6780079ac)
 
 # 📊 Consulta e Análise de Vulnerabilidades
 
