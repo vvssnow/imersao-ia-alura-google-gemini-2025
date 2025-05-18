@@ -34,5 +34,12 @@ Nosso sistema assegura que você obterá informações atualizadas, com notícia
 Inicie agora mesmo sua jornada para uma segurança mais proativa e fique sempre um passo à frente das ameaças cibernéticas!
 
 ---
+Procedimento para busca:
+![image](https://github.com/user-attachments/assets/8677fa59-8438-4ee2-9ff5-a055051a9ad8)
+
+![image](https://github.com/user-attachments/assets/3bc3b5c2-0678-418f-9c42-1bc0a43d3157)
+
+➕ Adicionado o procedimento para busca por vendor (fabricante);
+➕ Adicionado o procedimento para busca por cve (vulnerabilidade);
 
                                                           
