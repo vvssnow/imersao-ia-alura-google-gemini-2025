@@ -34,6 +34,9 @@ Nosso sistema assegura que você obterá informações atualizadas, com notícia
 
 Inicie agora mesmo sua jornada para uma segurança mais proativa e fique sempre um passo à frente das ameaças cibernéticas!
 
+## 🔗 Link da App no Streamlit: https://search-vuln-ia.streamlit.app/
+## Abaixo segue como realizar no Google-Colab
+
 ---
 Procedimento para busca:
 ![image](https://github.com/user-attachments/assets/8677fa59-8438-4ee2-9ff5-a055051a9ad8)
