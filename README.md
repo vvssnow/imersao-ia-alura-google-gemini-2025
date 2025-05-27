@@ -42,6 +42,7 @@ Procedimento para busca:
 ![image](https://github.com/user-attachments/assets/8677fa59-8438-4ee2-9ff5-a055051a9ad8)
 
 Ainda tem dúvidas? Assista aos vídeos de demonstração para aprender a utilizar o SearchVulnIA, tanto via Google Colab quanto pelo Streamlit:
+
 ![image](https://github.com/user-attachments/assets/9564cf9c-181c-4c4b-96bb-76018efdf471)
 
 
