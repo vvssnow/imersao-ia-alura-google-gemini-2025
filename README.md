@@ -4,7 +4,7 @@
 
 # 📊 SearchVulnIA: Consulta e Análise de Vulnerabilidade
 
-Bem-vindo ao SearchVulnIA , projeto de consulta e análise de vulnerabilidade! Desenvolvi um sistema interativo onde diferentes "Agentes" de segurança colaboram para fornecer informações relevantes e práticas de proteção baseadas em vulnerabilidades recentes. Este projeto é perfeito para profissional de segurança da informação interessado em manter-se atualizado com as ameaças atuais na área.
+Bem-vindo ao SearchVulnIA, um projeto de consulta e análise de vulnerabilidade desenvolvido como conclusão da Imersão IA, 3ª Edição, da Alura em parceria com o Google Gemini. O SearchVulnIA é um sistema interativo onde diferentes "Agentes" de segurança colaboram para fornecer informações relevantes e práticas de proteção, baseadas em vulnerabilidades recentes. Este projeto é ideal para profissionais de segurança da informação que desejam se manter atualizados sobre as ameaças atuais na área.
 
 ## 🚀 Como Funciona?
 
@@ -41,7 +41,8 @@ Inicie agora mesmo sua jornada para uma segurança mais proativa e fique sempre 
 Procedimento para busca:
 ![image](https://github.com/user-attachments/assets/8677fa59-8438-4ee2-9ff5-a055051a9ad8)
 
-![image](https://github.com/user-attachments/assets/0c821c3d-3b22-4389-adf7-ee32a441dc29)
+![image](https://github.com/user-attachments/assets/9564cf9c-181c-4c4b-96bb-76018efdf471)
+
 
 
 
