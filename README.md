@@ -2,18 +2,18 @@
 ---
 ![095b8df7-510a-4c0c-b5a4-197af74c9cffvander-neves](https://github.com/user-attachments/assets/b3ab7b83-69fa-41a2-bdbd-d9e6780079ac)
 
-# 📊 Consulta e Análise de Vulnerabilidades
+# 📊 SearchVulnIA: Consulta e Análise de Vulnerabilidade
 
-Bem-vindo ao nosso projeto de consulta e análise de vulnerabilidades! Desenvolvemos um sistema interativo onde diferentes "Agentes" de segurança colaboram para fornecer informações relevantes e práticas de proteção baseadas em vulnerabilidades recentes. Este projeto é perfeito para profissionais de segurança da informação interessados em manter-se atualizados com as ameaças atuais na área.
+Bem-vindo ao SearchVulnIA , projeto de consulta e análise de vulnerabilidade! Desenvolvi um sistema interativo onde diferentes "Agentes" de segurança colaboram para fornecer informações relevantes e práticas de proteção baseadas em vulnerabilidades recentes. Este projeto é perfeito para profissional de segurança da informação interessado em manter-se atualizado com as ameaças atuais na área.
 
 ## 🚀 Como Funciona?
 
 O sistema utiliza quatro agentes especialistas que trabalham em conjunto para oferecer uma solução completa:
 
-1. **Agente Consultor 🕵️‍♂️**: Ele realiza a busca das últimas notícias e lançamentos na área de segurança, focando em vulnerabilidades divulgadas nos últimos 30 dias.
-2. **Agente RedTeam 🔴**: Com base nas informações do consultor, este agente busca as vulnerabilidades mais notáveis sendo exploradas atualmente.
-3. **Agente BlueTeam 🔵**: Ele busca as melhores práticas de defesa e elabora um plano de correção claro e direto.
-4. **Agente Auditor 📋**: Por fim, este agente revisa e formata as informações em um documento conciso, destacando os principais pontos críticos e recomendações de segurança.
+1. **Agente Consultor 🕵️‍♂️**: Busca as últimas notícias e lançamentos em segurança, focando em vulnerabilidades dos últimos 30 dias.
+2. **Agente RedTeam 🔴**: Analisa as informações do Consultor para identificar as vulnerabilidades mais exploradas.
+3. **Agente BlueTeam 🔵**: Procura as melhores práticas de defesa e elabora um plano de correção direto.
+4. **Agente Auditor 📋**: Por fim, esse agente revisa, formata e apresenta as informações de forma concisa, destacando os principais pontos críticos e recomendações de segurança.
 
 ## 📥 Instruções
 
@@ -23,7 +23,7 @@ O sistema utiliza quatro agentes especialistas que trabalham em conjunto para of
 
 ## 📅 Atualidade Garantida
 
-Nosso sistema assegura que você obterá informações atualizadas, com notícias e dados de lançamentos dos últimos 30 dias.
+Utilizando o Google Gemini, o SearchVulnIA assegura o acesso a informações atualizadas, incluindo notícias e dados relevantes dos últimos 30 dias.
 
 ## ⭐ Por que Usar?
 
